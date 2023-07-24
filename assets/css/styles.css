@@ -5,6 +5,7 @@
 /*=== Colores ===*/
 body {
   font-family: 'Montserrat';font-size: 22px;
+  background-color: #f9f5f2;
 }
 
 td {
@@ -552,34 +553,52 @@ img {
 .l-section {
   /*background-color: var(--dark-color);*/
   background-image: url("../img/papas.jpeg");
-  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-size: 90% 80%;
 }
 
 .l2-section {
   /*background-color: var(--dark-color);*/
   background-image: url("../img/lugar.jpeg");
-  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-size: 90% 80%;
 }
 
 .l3-section {
   /*background-color: var(--dark-color);*/
   background-image: url("../img/padrinos.jpeg");
-  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-size: 90% 80%;
 }
 
 .l4-section {
   /*background-color: var(--dark-color);*/
   background-image: url("../img/detalles.jpeg");
-  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-size: 90% 80%;
 }
 
 .l5-section {
   background-color: #f9f5f2;
-  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-size: 90% 80%;
 }
 .l6-section {
   background-color: #f9f5f2;
-  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-size: 90% 80%;
 }
 .section2 {
   background-color: #f9f5f2;
